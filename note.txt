@@ -1,0 +1,5 @@
+For ExpressJS
+* npm init, enter enter
+ FOllow Geeks link
+https://www.geeksforgeeks.org/express-js/
+link https://expressjs.com/en/starter/installing.html
